@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+User-agent: Yandex
+Allow: /favicon.ico
+Allow: /favicon.png
+Allow: /favicon-120.png
+
+Sitemap: https://timlabss.github.io/blog/sitemap.xml
